@@ -16,8 +16,7 @@
           <p>follow us on</p>
           </div>
           <div class="social-icons">
-            <a href="#"><i class="fab fa-facebook-f facebook"></i></a>
-            <a href="#"><i class="fa-brands fa-x-twitter twitter"></i></a>
+            <a href="#"><i class="fab fa-facebook-f facebook"></i></a> 
             <a href="#"><i class="fab fa-instagram instagram"></i></a>
             <a href="#"><i class="fab fa-linkedin-in linked-in"></i></a>
           </div>
